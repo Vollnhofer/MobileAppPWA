@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1588249835875,
+  "index": "/MobileAppPWA/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MobileAppPWA/favicon.ico",
+        "/MobileAppPWA/index.html",
+        "/MobileAppPWA/main-es2015.443dc5bc6badb1d96366.js",
+        "/MobileAppPWA/main-es5.443dc5bc6badb1d96366.js",
+        "/MobileAppPWA/manifest.webmanifest",
+        "/MobileAppPWA/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/MobileAppPWA/polyfills-es5.9e286f6d9247438cbb02.js",
+        "/MobileAppPWA/runtime-es2015.1eba213af0b233498d9d.js",
+        "/MobileAppPWA/runtime-es5.1eba213af0b233498d9d.js",
+        "/MobileAppPWA/styles.e85664fc5a31b02ac00f.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MobileAppPWA/assets/icons/icon-128x128.png",
+        "/MobileAppPWA/assets/icons/icon-144x144.png",
+        "/MobileAppPWA/assets/icons/icon-152x152.png",
+        "/MobileAppPWA/assets/icons/icon-192x192.png",
+        "/MobileAppPWA/assets/icons/icon-384x384.png",
+        "/MobileAppPWA/assets/icons/icon-512x512.png",
+        "/MobileAppPWA/assets/icons/icon-72x72.png",
+        "/MobileAppPWA/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/MobileAppPWA/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/MobileAppPWA/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/MobileAppPWA/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/MobileAppPWA/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/MobileAppPWA/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/MobileAppPWA/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/MobileAppPWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/MobileAppPWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/MobileAppPWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/MobileAppPWA/index.html": "c3bfc812732272b0060b5486d6c3ac07db183d6e",
+    "/MobileAppPWA/main-es2015.443dc5bc6badb1d96366.js": "a7254f42e4b7261bd8f6487bd9df4aac29f39c9d",
+    "/MobileAppPWA/main-es5.443dc5bc6badb1d96366.js": "f6776276358456a220b2141f656a166789d1214c",
+    "/MobileAppPWA/manifest.webmanifest": "dfe41003c7c19a5d4048c1a6c6493ab4e2c58ce9",
+    "/MobileAppPWA/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/MobileAppPWA/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "/MobileAppPWA/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/MobileAppPWA/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/MobileAppPWA/styles.e85664fc5a31b02ac00f.css": "0ff97279e146f82190cecdf3add6faf5e858e9ee"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
