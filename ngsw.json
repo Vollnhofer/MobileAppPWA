@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1588249835875,
+  "timestamp": 1588253041360,
   "index": "/MobileAppPWA/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "/MobileAppPWA/polyfills-es5.9e286f6d9247438cbb02.js",
         "/MobileAppPWA/runtime-es2015.1eba213af0b233498d9d.js",
         "/MobileAppPWA/runtime-es5.1eba213af0b233498d9d.js",
-        "/MobileAppPWA/styles.e85664fc5a31b02ac00f.css"
+        "/MobileAppPWA/styles.3d5a15c80dc3f1e550ec.css"
       ],
       "patterns": []
     },
@@ -49,7 +49,7 @@
     "/MobileAppPWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/MobileAppPWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/MobileAppPWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/MobileAppPWA/index.html": "c3bfc812732272b0060b5486d6c3ac07db183d6e",
+    "/MobileAppPWA/index.html": "247a5627c1d668500310291f461f79c8a07fa295",
     "/MobileAppPWA/main-es2015.443dc5bc6badb1d96366.js": "a7254f42e4b7261bd8f6487bd9df4aac29f39c9d",
     "/MobileAppPWA/main-es5.443dc5bc6badb1d96366.js": "f6776276358456a220b2141f656a166789d1214c",
     "/MobileAppPWA/manifest.webmanifest": "dfe41003c7c19a5d4048c1a6c6493ab4e2c58ce9",
@@ -57,7 +57,7 @@
     "/MobileAppPWA/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
     "/MobileAppPWA/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/MobileAppPWA/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/MobileAppPWA/styles.e85664fc5a31b02ac00f.css": "0ff97279e146f82190cecdf3add6faf5e858e9ee"
+    "/MobileAppPWA/styles.3d5a15c80dc3f1e550ec.css": "899d9a12791d0ab95921c2fe8d0517598eb739c4"
   },
   "navigationUrls": [
     {
