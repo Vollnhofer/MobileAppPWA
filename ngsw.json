@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1588260255672,
+  "timestamp": 1588343694094,
   "index": "/MobileAppPWA/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/MobileAppPWA/favicon.ico",
         "/MobileAppPWA/index.html",
-        "/MobileAppPWA/main-es2015.07cf5217a1e5407cb7ca.js",
-        "/MobileAppPWA/main-es5.07cf5217a1e5407cb7ca.js",
+        "/MobileAppPWA/main-es2015.947240cb985d1af52a48.js",
+        "/MobileAppPWA/main-es5.947240cb985d1af52a48.js",
         "/MobileAppPWA/manifest.webmanifest",
         "/MobileAppPWA/polyfills-es2015.690002c25ea8557bb4b0.js",
         "/MobileAppPWA/polyfills-es5.9e286f6d9247438cbb02.js",
         "/MobileAppPWA/runtime-es2015.1eba213af0b233498d9d.js",
         "/MobileAppPWA/runtime-es5.1eba213af0b233498d9d.js",
-        "/MobileAppPWA/styles.e59f4f78b37dbeae1f89.css"
+        "/MobileAppPWA/styles.c807d295b1c4ee40754a.css"
       ],
       "patterns": []
     },
@@ -49,15 +49,15 @@
     "/MobileAppPWA/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/MobileAppPWA/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/MobileAppPWA/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/MobileAppPWA/index.html": "6f5008e149a2b49bbfa41e4b80d7393fe200fdbd",
-    "/MobileAppPWA/main-es2015.07cf5217a1e5407cb7ca.js": "0cfb05909668c48ff415e4ef4c002abad9c4f7bc",
-    "/MobileAppPWA/main-es5.07cf5217a1e5407cb7ca.js": "d1c599af8eca3870c19d11cd3131057bc49dc347",
+    "/MobileAppPWA/index.html": "dfecc4987a8373cf77728da678dfe0b18507dbd7",
+    "/MobileAppPWA/main-es2015.947240cb985d1af52a48.js": "60f1a8b8ac832cda3a290be891fbd260ef8b2b1d",
+    "/MobileAppPWA/main-es5.947240cb985d1af52a48.js": "d22ebf0d87e8dae03eeaea884a3a311c7aded421",
     "/MobileAppPWA/manifest.webmanifest": "dfe41003c7c19a5d4048c1a6c6493ab4e2c58ce9",
     "/MobileAppPWA/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/MobileAppPWA/polyfills-es5.9e286f6d9247438cbb02.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
     "/MobileAppPWA/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/MobileAppPWA/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/MobileAppPWA/styles.e59f4f78b37dbeae1f89.css": "f5d8926cd573c685e2badaf9101d00c27343a94a"
+    "/MobileAppPWA/styles.c807d295b1c4ee40754a.css": "f5d8926cd573c685e2badaf9101d00c27343a94a"
   },
   "navigationUrls": [
     {
