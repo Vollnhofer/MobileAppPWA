@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1588344383683,
+  "timestamp": 1588344861041,
   "index": "/MobileAppPWA/index.html",
   "assetGroups": [
     {
@@ -46,7 +46,7 @@
       ],
       "strategy": "freshness",
       "maxSize": 5,
-      "maxAge": 3600000,
+      "maxAge": 60000,
       "timeoutMs": 5000,
       "version": 1
     }
